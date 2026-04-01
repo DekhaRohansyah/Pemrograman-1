@@ -2,7 +2,7 @@ package Latihan_1;
 
 import java.util.Scanner;
 
-public class L1 {
+public class P2_L1 {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         String nama, universitas;
