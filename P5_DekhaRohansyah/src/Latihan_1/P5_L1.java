@@ -39,7 +39,6 @@ public class P5_L1 {
         } else {
             System.out.println("Anak-anak");
         }
-
         input.close();
     }
 }
