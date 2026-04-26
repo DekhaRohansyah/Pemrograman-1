@@ -7,7 +7,6 @@ public class Tugas_2 {
         Scanner input = new Scanner(System.in);
         char ulang;
         int total = 0;
-
         do {
             System.out.print("Masukkan nilai mahasiswa: ");
             int nilai = input.nextInt();

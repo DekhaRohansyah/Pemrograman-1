@@ -10,7 +10,6 @@ public class Tugas_1 {
 
         System.out.print("Apakah member? (1=ya / 0=tidak): ");
         int member = input.nextInt();
-
         if (member == 1) {
             // a: member
             if (belanja >= 100000) {

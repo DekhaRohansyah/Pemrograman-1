@@ -8,7 +8,6 @@ public class Tugas_3 {
         char ulang;
         int total = 0;
         int jumlahData = 0;
-
         do {
             System.out.print("Masukkan nilai mahasiswa: ");
             int nilai = input.nextInt();

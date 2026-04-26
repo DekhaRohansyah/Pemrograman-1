@@ -22,5 +22,4 @@ public class P8_L2 {
 
             } while (ulang == 'y' || ulang == 'Y');
     }
-
 }

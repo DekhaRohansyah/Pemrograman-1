@@ -30,7 +30,6 @@ public class P5_L1 {
         } else {
             System.out.println("Tidak lulus");
         }
-
         // IF-ELSE IF
         if (umur >= 18) {
             System.out.println("Dewasa");

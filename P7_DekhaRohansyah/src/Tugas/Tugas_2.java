@@ -10,7 +10,6 @@ public class Tugas_2 {
 
         System.out.print("Lama parkir (jam): ");
         int jam = input.nextInt();
-
         if (jenis == 1) {
             // a: mobil
             if (jam > 3) {

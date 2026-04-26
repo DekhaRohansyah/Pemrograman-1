@@ -6,7 +6,6 @@ public class Tugas_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char ulang;
-
         do {
             System.out.print("Masukkan nilai mahasiswa: ");
             int nilai = input.nextInt();

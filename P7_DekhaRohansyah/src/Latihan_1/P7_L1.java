@@ -13,6 +13,7 @@ public class P7_L1 {
         int nilai = input.nextInt();
 
         int V = 21 * 75 / 100;
+
         if (kehadiran >= V) {
             // NORMAL
             if (nilai >= 80) {
